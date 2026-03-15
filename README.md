@@ -1,57 +1,59 @@
 # Hi 👋 I'm Han Xuefei
 
+🌐 Language
+[English](README.md) | [中文](README_CN.md)
+
+---
+
 💻 Software Developer
 🌏 Based in Taiwan
-⚙️ Interested in Backend Engineering, Systems, and Open Source
+
+I am interested in backend development, systems engineering and open-source technologies.
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently focusing on backend and system development
-* 🌱 Learning distributed systems and cloud-native technologies
-* 🧠 Interested in performance optimization and system design
-* 👯 Open to collaborating on open-source projects
-* 💬 Ask me about programming, Linux, or development tools
+* 🔭 Currently working on backend and systems projects
+* 🌱 Learning distributed systems and cloud-native development
+* ⚙️ Interested in performance optimization and architecture design
+* 👯 Open to open-source collaboration
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+* Python
+* Go
+* JavaScript
 
-### Tools & Platforms
+**Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+* Linux
+* Git
+* Docker
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxf-root\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hxf-root\&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hxf-root\&layout=compact)
 
 ---
 
-## 📌 Current Focus
+## 📈 Activity
 
-* Backend architecture
-* Distributed systems
-* Cloud-native development
-* Open-source contribution
+![GitHub Streak](https://streak-stats.demolab.com/?user=hxf-root)
 
 ---
 
 ## 📫 Contact
 
-* GitHub: https://github.com/hxf-root
+GitHub: https://github.com/hxf-root
 
 ---
 
