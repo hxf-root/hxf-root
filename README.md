@@ -6,7 +6,7 @@
 ---
 
 💻 Software Developer
-🌏 Based in Taiwan
+🌏 Based in BeiJing
 
 I am interested in backend development, systems engineering and open-source technologies.
 
